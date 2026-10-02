@@ -220,4 +220,4 @@ Prey is offered as a full free version, with all features and updates included. 
 Don’t wait until it’s too late! Protect your laptop today by downloading Prey for free and enjoy peace of mind with every installation.
 
 ---
-**Last updated:** 2026-10-02 18:54:55 UTC
+**Last updated:** 2026-10-02 22:46:46 UTC
